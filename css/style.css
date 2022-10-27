@@ -1,0 +1,50 @@
+* {
+  font-family: Andale Mono, AndaleMono, monospace;
+  text-align: center;
+  background-color: lightskyblue;
+}
+
+h1 {
+    border: 2px solid black;
+    background-color: white;
+    width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2 {
+    border: 2px solid black;
+    background-color: white;
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h3 {
+  border: 2px solid black;
+  background-color: white;
+  width: 200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h5 {
+  border: 2px solid black;
+  background-color: white;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p {
+    border: 2px solid black;
+    background-color: white;
+    width: 700px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img {
+  border: 2px solid black;
+}
